@@ -41,6 +41,7 @@ git clone https://github.com/username/project-name.git
 cd project-name
 
 npm install
+TEST
 
 
 
