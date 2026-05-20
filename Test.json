@@ -23,9 +23,9 @@
     },
     {
       "id": 4,
-      "name": "Bruce Lee",
-      "role": "Karate Engineer",
-      "email": "bruce.lee@example.com",
+      "name": "Qwe Lee",
+      "role": "Project Manager",
+      "email": "clara.lee@example.com",
       "skills": ["Agile", "Scrum", "Communication"]
     }
   ],
