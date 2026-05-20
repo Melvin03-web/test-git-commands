@@ -2,11 +2,7 @@
   "employees": [
     {
       "id": 1,
-<<<<<<< HEAD
-      "name": "Alice Dellwood",
-=======
       "name": "Alice Aqua",
->>>>>>> newbranch
       "role": "Software Engineer",
       "email": "alice.johnson@example.com",
       "skills": ["C#", "SQL", "PowerShell"]
