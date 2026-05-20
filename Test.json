@@ -5,7 +5,7 @@
       "name": "Alice Aqua",
       "role": "Software Engineer",
       "email": "alice.johnson@example.com",
-      "skills": ["C#", "SQL", "PowerShell"]
+      "skills": ["C#", "SQL", "PowerShell", "SSMS"]
     },
     {
       "id": 2,
