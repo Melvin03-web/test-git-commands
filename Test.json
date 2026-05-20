@@ -28,11 +28,18 @@
       "email": "clara.lee@example.com",
       "skills": ["Agile", "Scrum", "Communication"]
     },
-        {
+    {
       "id": 5,
       "name": "Bruce Lee",
       "role": "Projector",
       "email": "bruce.lee@example.com",
+      "skills": ["Agile", "Scrum", "Communication"]
+    },
+    {
+      "id": 6,
+      "name": "One Lee",
+      "role": "Projection",
+      "email": "one.lee@example.com",
       "skills": ["Agile", "Scrum", "Communication"]
     }
   ],
