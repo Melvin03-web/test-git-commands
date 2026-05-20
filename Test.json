@@ -1,0 +1,30 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "role": "Software Engineer",
+      "email": "alice.johnson@example.com",
+      "skills": ["C#", "SQL", "PowerShell"]
+    },
+    {
+      "id": 2,
+      "name": "Bob Martinez",
+      "role": "Database Administrator",
+      "email": "bob.martinez@example.com",
+      "skills": ["SQL Server", "Performance Tuning", "Backup & Recovery"]
+    },
+    {
+      "id": 3,
+      "name": "Clara Lee",
+      "role": "Project Manager",
+      "email": "clara.lee@example.com",
+      "skills": ["Agile", "Scrum", "Communication"]
+    }
+  ],
+  "company": {
+    "name": "Tech Solutions Inc.",
+    "location": "San Juan, Metro Manila",
+    "founded": 2015
+  }
+}
