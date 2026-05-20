@@ -55,14 +55,7 @@
       "role": "Projection",
       "email": "three.lee@example.com",
       "skills": ["Agile", "Scrum", "Communication"]
-    },
-    {
-      "id": 9,
-      "name": "Four Lee",
-      "role": "Projection",
-      "email": "four.lee@example.com",
-      "skills": ["Agile", "Scrum", "Communication"]
-    }      
+    }        
   ],
   "company": {
     "name": "Thurston Software Solutions Inc.",
