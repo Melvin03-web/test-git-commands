@@ -76,7 +76,14 @@
       "role": "Projection",
       "email": "twelve.lee@example.com",
       "skills": ["Agile", "Scrum", "Communication"]
-    }                        
+    },
+    {
+      "id": 13,
+      "name": "Thirteen Lee",
+      "role": "Projection",
+      "email": "thirteen.lee@example.com",
+      "skills": ["Agile", "Scrum", "Communication"]
+    }                          
   ],
   "company": {
     "name": "Thurston Software Solutions Inc.",
